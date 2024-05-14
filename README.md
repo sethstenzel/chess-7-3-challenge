@@ -26,7 +26,7 @@ This means that a Server written in C++ running on MacOS should works with a Jav
 
 # But why?
 Because I like setting large goals, and doing this well will give me self validation.
-If I can create this, in 7 different languages, I can do anything **flex**.
+If I can create this, in 7 different languages, I can do anything **#flex**.
 
 # Game Design Doc
 ## Title: Super Chess
